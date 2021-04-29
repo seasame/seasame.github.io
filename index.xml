@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Life and Existence</title>
-    <link>https://vikasbhardwaj.github.io/</link>
+    <link>/</link>
     <description>Recent content on Thoughts on Life and Existence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Apr 2021 15:27:01 -0700</lastBuildDate><atom:link href="https://vikasbhardwaj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Apr 2021 15:27:01 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bhakti: The Path of Devotion</title>
-      <link>https://vikasbhardwaj.github.io/post/bhakti/</link>
+      <link>/post/bhakti/</link>
       <pubDate>Wed, 28 Apr 2021 15:27:01 -0700</pubDate>
       
-      <guid>https://vikasbhardwaj.github.io/post/bhakti/</guid>
+      <guid>/post/bhakti/</guid>
       <description> How does Faith or Devotion impact us? </description>
     </item>
     
     <item>
       <title>Vedanta: The ancient wisdom</title>
-      <link>https://vikasbhardwaj.github.io/post/vedanta/</link>
+      <link>/post/vedanta/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vikasbhardwaj.github.io/post/vedanta/</guid>
+      <guid>/post/vedanta/</guid>
       <description>Let&amp;rsquo;s get some perspective We go through life and have a variety of experiences, and we read these experiences based on our likes/dislikes, our sense of good/bad, and whether is makes us feel pleasant/unpleasant.</description>
     </item>
     
